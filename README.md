@@ -31,11 +31,4 @@ Die Entschlüsselung erfolgt, indem die Verschiebung um die gleiche Anzahl von P
 
 ## Flowchart
 
-Das folgende Diagramm zeigt den Ablauf der Anwendung:
-
-![Flowchart](./src/caesar_cipher/img/flowchart.jpg)
-
-1. Benutzer gibt Text und Schlüssel ein.
-2. Auswahl zwischen "Encoder" und "Decoder".
-3. Anwendung führt die entsprechende Verschiebung durch (vorwärts für Verschlüsselung, rückwärts für Entschlüsselung).
-4. Ergebnis wird im Ausgabefeld angezeigt.
+![Flowchart](./src/caesar_cipher/img/flowchart_caesar.jpg)
